@@ -1,7 +1,7 @@
 ---
 title: "Announcing MetrANOVA""
 categories: news
-permalink: post-2024-02-27-announcing-metranova.md
+permalink: post-2024-02-27-announcing-metranova.html
 tags: [news]
 ---
 
