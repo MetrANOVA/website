@@ -8,7 +8,10 @@ sidebar: home_sidebar
 comments: false
 ---
 
-<p align="center"><img src="images/logos/perfsonar/perfsonar-powered-black-full.svg" height="24pt" /></p>
+<p align="center">
+  <!-- TODO: <img src="images/logos/perfsonar/perfsonar-powered-black-full.svg" height="24pt" /> -->
+  (MetraNOVA Logo Coming Soon)
+</p>
 
 ## Usage Guidelines
 
@@ -84,8 +87,7 @@ Under the following terms:
 Please read and the [license](#license) and [usage
 guidelines](#usage-guidelines) before downloading the MetrANOVA logo.
 
- * [MetrANOVA Logo Tarball, gzip-compressed](files/perfsonar-logo.tar.gz)
- * [MetrANOVA Logo Zip](files/perfsonar-logo.zip)
+ * Logo download coming soon.  <!-- TODO: Link -->
 
 
 ### File Names
@@ -110,13 +112,8 @@ below.
  * `logo` - The crosshairs with surrounding _MetrANOVA_ text.  Use
    this version to refer to MetrANOVA the product.
 
- * `powered` - The standard logo with "powered" underneath.  Use this
-   version on hardware devices running MetrANOVA or software that has
-   MetrANOVA embedded.
-
- * `icon` - The crosshairs only.  Use this version as a symbol for
-   MetrANOVA nodes on network diagrams or as bullets in MetrANOVA
-   marketing material.
+ * `icon` - The crosshairs only.  Use this version for bullets in
+   MetrANOVA marketing material.
 
 #### Color
 
@@ -138,5 +135,3 @@ latter is present.  This will be `black` or `white`.
 #### Height
 
 For PNG images, this is the height in pixels.
-
-

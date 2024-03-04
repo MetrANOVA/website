@@ -22,13 +22,6 @@ implied. See the License for the specific language governing
 permissions and limitations under the License.
 
 
-## Other Software
-
-The MetrANOVA toolkit installs a large number of non-MetrANOVA,
-open-source components.  These components use varying licenses; check
-with the licence file for each of these products for more information.
-
-
 ## Training and Other Written Materials
 
 The MetrANOVA project encourages community use of all materials for
