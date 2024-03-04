@@ -17,7 +17,7 @@ The governance model is designed to address two objectives that are in
 tension. First, the consortium will require a prolonged ongoing
 investment of resources to ensure the developed ecosystem is of
 sufficient quality and keeps pace with the evolving technical
-landscape. Second, the Consortium will take an inclusive approach to
+landscape. Second, the consortium will take an inclusive approach to
 harnessing the collective abilities of the community by encouraging
 participation at a smaller scale from organizations and individuals
 who may not be able to commit dedicated resources or may have
@@ -27,13 +27,13 @@ closely-scoped interests.
 ## Members
 
 Consortium members are organizations that contribute an aggregate
-equivalent of one full-time engineer's worth of effort with at least
-0.5 if that coming from a contributor who is consistently active over
-the period of the engagement. Contributions may include technical
-expertise, training, documentation, or technical leadership. Member
-organizations also have a Representative that participates in the
-Executive Committee, the contribution to the executive committee is in
-addition to the 1 FTE target.
+equivalent of one full-time engineer's (FTE) worth of effort with at
+least half of that FTE coming from a contributor who is consistently
+active over the period of the engagement. Contributions may include
+technical expertise, training, documentation, or technical
+leadership. Member organizations also have a Representative that
+participates in the Executive Committee, the contribution to the
+executive committee is in addition to the one-FTE target.
 
 New members are added via a nomination by an executive committee
 member followed by a vote of the full executive committee.

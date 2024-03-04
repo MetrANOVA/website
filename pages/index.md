@@ -61,7 +61,7 @@ This will show a news notice for anything less than 30 days old.
 				 LOGO
 -------------------------------------------------------------------------------
 {%- endcomment -%}
-<p align="center"><img src="images/logos/metranova/metranovar-logo.svg" /></p>
+<p align="center"><img src="images/logos/metranova/metranova-logo.svg" alt="MetraNOVA Logo" /></p>
 
 
 {% include important.html content="This is a development test for the MetrANOVA web site and should in no way be considered finished." %}
