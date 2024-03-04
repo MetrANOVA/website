@@ -37,13 +37,13 @@ entries:
         output: web
       - title: Code of Conduct
         url: /about_conduct.html
-	output: web
+        output: web
       - title: Governance
         url: /about_governance.html
-	output: web
+        output: web
       - title: Licenses
         url: /about_license.html
-	output: web
+        output: web
       - title: Logo and Usage
         url: /about_logo.html
         output: web
