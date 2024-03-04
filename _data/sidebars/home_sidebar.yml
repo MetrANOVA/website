@@ -1,0 +1,46 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+  - title: Sidebar
+    levels: two
+    folders:
+
+    - title: Get to Know MetrANOVA
+      output: web
+      folderitems:
+
+      - title: MetrANOVA Home
+        url: /index.html
+        output: web
+      - title: What is it?
+        url: /gtk_whatis.html
+        output: web
+
+
+    - title: Resources
+      output: web
+      folderitems:
+
+      - title: GitHub
+        external_url: https://github.com/MetrANOVA
+        output: web
+
+    - title: About
+      output: web
+      folderitems:
+
+      - title: Latest News
+        url: /news.html
+        output: web
+      - title: News Archive
+        url: /news_archive.html
+        output: web
+      - title: Logo and Usage
+        url: /about_logo.html
+        output: web
+      - title: Privacy Policy
+        url: /about_privacy.html
+        output: web
+      - title: Contact Us
+        url: /about_contact.html
+        output: web
