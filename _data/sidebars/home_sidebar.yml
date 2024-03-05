@@ -10,7 +10,7 @@ entries:
       folderitems:
 
       - title: Our Vision
-        url: /about_governance.html
+        url: /about_vision.html
         output: web
       - title: Governance
         url: /about_governance.html
