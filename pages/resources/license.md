@@ -68,5 +68,5 @@ use the material.
 
 ## MetrANOVA Logo
 
-Please see the [MetrANOVA Logo page](about_logo.html#license) for
+Please see the [MetrANOVA Logo page](resources_logo.html#license) for
 information on the MetrANOVA logo and its license.
