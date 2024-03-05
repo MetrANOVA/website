@@ -6,8 +6,8 @@ topnav:
   items:
     - title: News
       url: /news.html
-    - title: Releases
-      url: /docs_releasenotes.html
+#    - title: Releases
+#      url: /docs_releasenotes.html
 #    - title: Documentation
 #      external_url: https://docs.metranova.org
 

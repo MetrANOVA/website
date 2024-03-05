@@ -16,6 +16,12 @@ This will show a release notice for 45 days after a new release note
 is posted.
 -------------------------------------------------------------------------------
 {%- endcomment -%}
+{%- comment -%}
+
+#
+# THIS SECTION IS DISABLED.
+#
+
 {% assign latest_release = site.releasenotes | last %}
 {% capture epoch_now %}{{ "now" | date: '%s' }}{% endcapture %}
 {% capture epoch_since %}{{ latest_release.date | date: '%s' }}{% endcapture %}
@@ -31,6 +37,7 @@ is posted.
   {% assign releasenote_url = latest_release.url | remove: "/" %}
   <p align="center">{{ release_message }}: <b><a href="{{ releasenote_url }}">{{ latest_release.version }}</a></b></p>
 {% endif %}
+{%- endcomment -%}
 
 
 {%- comment -%}

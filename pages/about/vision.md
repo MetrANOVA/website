@@ -1,7 +1,7 @@
 ---
 title: Our Vision
 keywords: vision
-toc: true
+toc: false
 permalink: about_vision.html
 folder: about
 sidebar: home_sidebar
