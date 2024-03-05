@@ -9,8 +9,7 @@ comments: false
 ---
 
 <p align="center">
-  <!-- TODO: <img src="images/logos/perfsonar/perfsonar-powered-black-full.svg" height="24pt" /> -->
-  (MetraNOVA Logo Coming Soon)
+  <img src="images/logos/metranova/metranova.svg" height="24pt" />
 </p>
 
 ## Usage Guidelines

@@ -70,10 +70,7 @@ survey</a></p>
 				 LOGO
 -------------------------------------------------------------------------------
 {%- endcomment -%}
-<p align="center"><img src="images/logos/metranova/metranova.svg" alt="MetraNOVA Logo" /></p>
-
-
-{% include important.html content="This is a development test for the MetrANOVA web site and should in no way be considered finished." %}
+<p align="center"><img src="images/logos/metranova/metranova.svg" alt="MetrANOVA Logo" /></p>
 
 
 {%- comment -%}

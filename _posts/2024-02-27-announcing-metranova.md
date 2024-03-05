@@ -22,8 +22,6 @@ of networks, the design and operation of which have historically been
 loosely coupled yet coordinated and present some challenges to
 overcome.
 
-Metranova logo with partner logos
-
 “To ensure we are designing and operating networks that best serve our
 shared purpose — accelerating scientific research — we need a greater
 understanding of the whole system,” said Edward Balas, MetrANOVA lead
