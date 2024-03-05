@@ -8,10 +8,12 @@ sidebar: home_sidebar
 comments: false
 ---
 
-The consortium will consist of both member organizations,
-affiliates. Individual contributors will come from either a member or
-will be an affiliate.  An individual consortium lead will operate the
-consortium under the direction from an executive committee.
+The consortium will consist of member organizations and
+affiliates. Individual contributors will come from a member or will be
+an affiliate.
+
+An individual consortium lead will operate the consortium under the
+direction from an executive committee.
 
 The governance model is designed to address two objectives that are in
 tension. First, the consortium will require a prolonged ongoing
@@ -88,6 +90,17 @@ status should that be needed based on ability to maintain
 resourcing. In both cases, a majority vote of the executive committee
 is required.
 
+The current members of the executive committee are:
+
+| Organization | Committee Member |
+|--------------|------------------|
+| ESnet | Inder Monga |
+| GÉANT Project | Ivana Golub |
+| Indiana University | Luke Fowler |
+| Internet2 | James Deaton |
+| Texas Advanced Computing Center | Nathaniel Mendoza |
+
+
 
 ## Consortium Lead
 
@@ -114,3 +127,5 @@ Essential duties include:
  
  * Provide periodic status reports as needed by the executive
    committee.
+
+The current consortium lead is Ed Balas of ESnet.

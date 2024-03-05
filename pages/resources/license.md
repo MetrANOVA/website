@@ -2,7 +2,7 @@
 title: Licenses
 keywords: license
 toc: false
-permalink: about_license.html
+permalink: resources_license.html
 folder: about
 sidebar: home_sidebar
 ---

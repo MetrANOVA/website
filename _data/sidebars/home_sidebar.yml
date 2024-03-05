@@ -5,27 +5,24 @@ entries:
     levels: two
     folders:
 
-    - title: Get to Know MetrANOVA
+    - title: About MetrANOVA
       output: web
       folderitems:
 
-      - title: MetrANOVA Home
-        url: /index.html
+      - title: Our Vision
+        url: /about_governance.html
         output: web
-      - title: What is it?
-        url: /gtk_whatis.html
+      - title: Governance
+        url: /about_governance.html
         output: web
-
+      - title: Code of Conduct
+        url: /about_conduct.html
+        output: web
+      - title: Contact Us
+        url: /about_contact.html
+        output: web
 
     - title: Resources
-      output: web
-      folderitems:
-
-      - title: GitHub
-        external_url: https://github.com/MetrANOVA
-        output: web
-
-    - title: About
       output: web
       folderitems:
 
@@ -35,21 +32,15 @@ entries:
       - title: News Archive
         url: /news_archive.html
         output: web
-      - title: Code of Conduct
-        url: /about_conduct.html
-        output: web
-      - title: Governance
-        url: /about_governance.html
+      - title: GitHub
+        external_url: https://github.com/MetrANOVA
         output: web
       - title: Licenses
-        url: /about_license.html
+        url: /resources_license.html
         output: web
       - title: Logo and Usage
-        url: /about_logo.html
+        url: /resources_logo.html
         output: web
       - title: Privacy Policy
-        url: /about_privacy.html
-        output: web
-      - title: Contact Us
-        url: /about_contact.html
+        url: /resources_privacy.html
         output: web

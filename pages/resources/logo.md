@@ -2,7 +2,7 @@
 title: MetrANOVA Logo and Usage
 keywords: logo
 toc: true
-permalink: about_logo.html
+permalink: resources_logo.html
 folder: about
 sidebar: home_sidebar
 comments: false
