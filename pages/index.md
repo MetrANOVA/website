@@ -79,6 +79,7 @@ survey</a>.</p>
 {%- endcomment -%}
 <p align="center"><img src="images/logos/metranova/metranova.svg" alt="MetrANOVA Logo" /></p>
 
+<hr/>
 
 {%- comment -%}
 -------------------------------------------------------------------------------
