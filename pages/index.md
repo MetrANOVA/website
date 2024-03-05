@@ -69,7 +69,7 @@ TODO: This ends mid-July, 2024.
 network measurement and monitoring within the research and education
 networking community.  Please give us a moment of your time and <a
 href="https://forms.gle/zeYAu8Hp1bZFU8hF7">take our user
-survey</a></p>
+survey</a>.</p>
 
 
 {%- comment -%}
