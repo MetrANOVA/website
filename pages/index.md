@@ -55,18 +55,14 @@ This will show a news notice for anything less than 30 days old.
   <p align="center">{{ news_message }}: <b><a href="{{ post_url }}">{{ site.posts[0].title }}</a></b></p>
 {% endif %}
 
-
-
 {%- comment -%}
 TODO: This ends mid-July, 2024.
 {%- endcomment -%}
 <p align="center">We're looking to better understand the state of
 network measurement and monitoring within the research and education
-networking community.<br/>
-
-Please give us a moment of your time and <a
+networking community.  Please give us a moment of your time and <a
 href="https://forms.gle/zeYAu8Hp1bZFU8hF7">take our user
-survey</a></p>.
+survey</a></p>
 
 
 {%- comment -%}
