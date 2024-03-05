@@ -40,7 +40,8 @@ exclude:
 
 feedback_subject_line: MetrANOVA Website Feedback
 
-feedback_email: metranova-training@internet2.edu
+# TODO: Need a better address for this.
+feedback_email: ebalas@es.net
 # used as a contact email for the Feedback link in the top navigation bar
 
 feedback_disable: true

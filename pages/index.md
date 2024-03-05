@@ -70,7 +70,7 @@ survey</a></p>
 				 LOGO
 -------------------------------------------------------------------------------
 {%- endcomment -%}
-<p align="center"><img src="images/logos/metranova/metranova-logo.svg" alt="MetraNOVA Logo" /></p>
+<p align="center"><img src="images/logos/metranova/metranova.svg" alt="MetraNOVA Logo" /></p>
 
 
 {% include important.html content="This is a development test for the MetrANOVA web site and should in no way be considered finished." %}
@@ -89,13 +89,13 @@ Networking(REN) measurement and analysis by developing and socializing
 technical capabilities. Success comes from member organizations and
 the broader community using these capabilities publicly and privately
 within their infrastructure. To avoid competing against stakeholders'
-interests, the Consortium will focus on developing tools, tactics, and
+interests, the consortium will focus on developing tools, tactics, and
 techniques but will not offer measurement services. However, Member
 Organizations and the broader community are encouraged to use these
 tools, tactics, and techniques to create appropriate local,
 distributed, and federated solutions.
 
-This Consortium will focus on three types of deliverables:
+This consortium will focus on three types of deliverables:
 
  - Develop and share open architectures, technical components, design
    patterns, best practices, and policy recommendations to create
