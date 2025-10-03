@@ -32,6 +32,9 @@ entries:
       - title: News Archive
         url: /news_archive.html
         output: web
+      - title: Presentations
+        url: /presentations.html
+        output: web
       - title: GitHub
         external_url: https://github.com/MetrANOVA
         output: web
