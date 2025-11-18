@@ -67,8 +67,11 @@ This will show a news notice for anything less than 30 days old.
 				 LOGO
 -------------------------------------------------------------------------------
 {%- endcomment -%}
-<p align="center"><img src="images/logos/metranova/metranova.svg" alt="MetrANOVA Logo" /></p>
-
+<p align="center"><img src="images/metranova_team.jpg" alt="MetrANOVA Team" /></p>
+<div align="center"><i>
+Members of the MetrANOVA consortium met in Berkeley in October 2024 for a
+brainstorming and collaboration session.
+</i></div>
 <hr/>
 
 {%- comment -%}
@@ -77,38 +80,23 @@ This will show a news notice for anything less than 30 days old.
 -------------------------------------------------------------------------------
 {%- endcomment -%}
 
-MetrANOVA is a neutral, trusted, and open consortium for **A**dvancing
-**N**etwork **O**bservation, **V**isualization, and **A**nalysis. Its
-primary goal is to advance the state of Research and Education
-Networking(REN) measurement and analysis by developing and socializing
-technical capabilities. Success comes from member organizations and
-the broader community using these capabilities publicly and privately
-within their infrastructure. To avoid competing against stakeholders'
-interests, the consortium will focus on developing tools, tactics, and
-techniques but will not offer measurement services. However, Member
-Organizations and the broader community are encouraged to use these
-tools, tactics, and techniques to create appropriate local,
-distributed, and federated solutions.
+MetrANOVA is a neutral, trusted, and open consortium for Advancing Network
+Observation, Visualization, and Analysis. Our primary goal is to advance the
+state of research and education (R&E) networking measurement and analysis by
+developing and socializing technical capabilities. We offer a toolkit and
+patterns, not a hosted service.
 
 This consortium will focus on three types of deliverables:
 
- - Develop and share open architectures, technical components, design
-   patterns, best practices, and policy recommendations to create
-   effective network measurement systems.
+ - **MetrANOVA network tools**, used in production by several consortium members:
+   - A scalable software stack for all sizes of network-based systems, based on
+       existing open source tools.
+   - Full-featured measurement stack for network metrics, including flow data
+     and host and application stats and logs.
+   - Proven deployment patterns, including techniques for controlled data sharing
+     and transparent testing results.
 
- - Educate the research and education community to enable effective
-   use of network measurements for operations, engineering, planning,
-   and outreach.
+ - **Join the MetrANOVA partnership** [LINK TO JOIN PAGE]: Help craft the future of
+   R&E network measurement, reduce individual costs to stand up essential tools,
+   and improve collective situational awareness!
 
- - Provide growth opportunities for students and staff.
-
-The Consortium will consist of both Member Organizations and
-Affiliates (individuals or organizations) that are actively
-participating in the project.  The set of individual participants who
-are contributing to the project are considered Contributors. A tiered
-participation model will allow for different levels of resource
-allocation and commitment to the project, enabling a broad base of
-Contributors. The final decision-making responsibility for the
-project’s direction resides with an Executive Committee. The Executive
-Committee consists of one individual from each of the participating
-Member Organizations.

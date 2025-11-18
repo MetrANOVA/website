@@ -5,45 +5,57 @@ entries:
     levels: two
     folders:
 
-    - title: About MetrANOVA
-      output: web
-      folderitems:
+      - title: Home
+        output: web
+        folderitems:
+          - title: MetrANOVA Home
+            url: /index.html
+            output: web
 
-      - title: Our Vision
-        url: /about_vision.html
+      - title: Explore MetrANOVA Network Tools
         output: web
-      - title: Governance
-        url: /about_governance.html
-        output: web
-      - title: Code of Conduct
-        url: /about_conduct.html
-        output: web
-      - title: Contact Us
-        url: /about_contact.html
-        output: web
+        folderitems:
+          - title: Our Tools
+            url: /about_explore.html
+            output: web
+          - title: GitHub
+            external_url: https://github.com/MetrANOVA
+            output: web
+          - title: Governance
+            url: /about_governance.html
+            output: web
+          - title: Code of Conduct
+            url: /about_conduct.html
+            output: web
 
-    - title: Resources
-      output: web
-      folderitems:
+      - title: Join the MetrANOVA Partnership
+        output: web
+        folderitems:
+          - title: MetrANOVA Partners
+            url: /partners.html
+            output: web
+          - title: Join MetrANOVA
+            url: /join.html
+            output: web
 
-      - title: Latest News
-        url: /news.html
+      - title: News & Resources
         output: web
-      - title: News Archive
-        url: /news_archive.html
-        output: web
-      - title: Presentations
-        url: /presentations.html
-        output: web
-      - title: GitHub
-        external_url: https://github.com/MetrANOVA
-        output: web
-      - title: Licenses
-        url: /resources_license.html
-        output: web
-      - title: Logo and Usage
-        url: /resources_logo.html
-        output: web
-      - title: Privacy Policy
-        url: /resources_privacy.html
-        output: web
+        folderitems:
+          - title: Latest News
+            url: /news.html
+            output: web
+          - title: Presentations
+            url: /presentations.html
+            output: web
+          - title: Logo and Usage
+            url: /resources_logo.html
+            output: web
+          - title: Licenses
+            url: /resources_license.html
+            output: web
+          - title: Privacy Policy
+            url: /resources_privacy.html
+            output: web
+          - title: Contact Us
+            url: /about_contact.html
+            output: web
