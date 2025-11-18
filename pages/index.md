@@ -88,7 +88,7 @@ patterns, not a hosted service.
 
 This consortium will focus on three types of deliverables:
 
- - **MetrANOVA network tools**, used in production by several consortium members:
+ - [**MetrANOVA network tools**](/about_explore.html), used in production by several consortium members:
    - A scalable software stack for all sizes of network-based systems, based on
        existing open source tools.
    - Full-featured measurement stack for network metrics, including flow data
@@ -96,7 +96,7 @@ This consortium will focus on three types of deliverables:
    - Proven deployment patterns, including techniques for controlled data sharing
      and transparent testing results.
 
- - **Join the MetrANOVA partnership** [LINK TO JOIN PAGE]: Help craft the future of
+ - [**Join the MetrANOVA partnership**](/join.html): Help craft the future of
    R&E network measurement, reduce individual costs to stand up essential tools,
    and improve collective situational awareness!
 
